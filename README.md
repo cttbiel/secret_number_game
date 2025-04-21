@@ -41,8 +41,7 @@ Além de ser um jogo simples, ele reforça conceitos de interação, usabilidade
 ---
 
 > 💻 **Quer jogar?**  
-[➡️ Acesse o site clicando aqui!](#)  
-*(Coloque o link do GitHub Pages ou do domínio que você usou)*
+[➡️ Acesse o site clicando aqui!](https://secret-cttbiels-projects.vercel.app/)
 
 ---
 
